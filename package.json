@@ -1,0 +1,14 @@
+{
+    "name": "barcode-bakery-common",
+    "version": "0.0.1",
+    "description": "Base code for generating barcode with the Barcode Bakery library. See barcode-bakery-1d.",
+    "main": "./index.js",
+    "author": {
+        "name": "Jean-Sébastien Goupil",
+        "email": "contact@barcodebakery.com"
+    },
+    "license": "See LICENSE.MD",
+    "dependencies": {
+        "canvas": "^1.3.9"
+    }
+}
