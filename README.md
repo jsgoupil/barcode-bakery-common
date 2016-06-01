@@ -1,6 +1,7 @@
-﻿# Barcode Bakery Common
+﻿Barcode Bakery Common
+===========
 
-Base code for generating barcode with the Barcode Bakery library.
+Base code for generating barcodes with the Barcode Bakery library.
 
 ## Generate 1D barcodes
 
