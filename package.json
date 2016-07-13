@@ -1,6 +1,6 @@
 {
     "name": "barcode-bakery-common",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Base code for generating barcode with the Barcode Bakery library. See barcode-bakery-1d.",
     "main": "./index.js",
     "author": {

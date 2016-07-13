@@ -44,6 +44,7 @@
     <Compile Include="lib\Label.js" />
     <Compile Include="lib\ParseException.js" />
     <Compile Include="lib\Utility.js" />
+    <Content Include="LICENSE.md" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
