@@ -1,10 +1,3 @@
-﻿Barcode Bakery Common
-===========
+# Barcode Bakery Common
 
-Base code for generating barcodes with the Barcode Bakery library.
-
-## Generate 1D barcodes
-
-Visit https://github.com/jsgoupil/barcode-bakery-1d
-
-
+This package has moved to https://github.com/barcode-bakery/barcode-nodejs-common
